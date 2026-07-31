@@ -1,0 +1,33 @@
+body{
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+h1{
+    color: red;
+    text-align: center;
+}
+
+h2{
+    color: darkblue;
+}
+
+p{
+    font-size: 18px;
+    color: black;
+}
+
+ul{
+    color: darkgreen;
+}
+
+img{
+    width: 300px;
+    border-radius: 10px;
+}
+
+a{
+    color: blue;
+    text-decoration: none;
+    font-weight: bold;
+}

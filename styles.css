@@ -47,6 +47,11 @@ button{
     transition: 0.3s;
 }
 
+cite{
+    color: blue; 
+    font-family: 20px;
+} 
+
 button:hover{
     background-color: white;
     color: red;
